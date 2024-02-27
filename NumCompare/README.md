@@ -5,6 +5,13 @@
    2. if guess < secret_num ===> "Too small"
    3. if guess == secret_num ===> "You win"
 
+# Configuration
+In Cargo.toml, we add line below:
+```
+[dependencies]
+rand = "0.8.5"
+```
+
 # Running.
 
 ```
