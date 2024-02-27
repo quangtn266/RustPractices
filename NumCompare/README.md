@@ -5,7 +5,7 @@
    2. if guess < secret_num ===> "Too small"
    3. if guess == secret_num ===> "You win"
 
-# Configuration.
+# Running.
 
 ```
 cargo run
