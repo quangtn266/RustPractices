@@ -6,7 +6,7 @@
    3. if guess == secret_num ===> "You win"
 
 # Configuration
-In Cargo.toml, we add line below:
+In Cargo.toml, we add line for adding "Random" libarary:
 ```
 [dependencies]
 rand = "0.8.5"
